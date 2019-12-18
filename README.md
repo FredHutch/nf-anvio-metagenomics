@@ -35,7 +35,5 @@ To launch the visual browser for the pan-genome go to 127.0.0.1:80:8080 in your 
 For more details on how to setup and navigate this visual browser, check out the amazing Anvi'o
 [documentation](http://merenlab.org/2016/11/08/pangenomics-v2/.)
 
-
-
-
+![Example Data](https://github.com/nf-anvio-metagenomics/raw/master/assets/screenshot.png)
 
