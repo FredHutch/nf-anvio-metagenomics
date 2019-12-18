@@ -16,7 +16,7 @@ NXF_VER=19.10.0 nextflow \
     --output_folder output \
     --bam_folder bams \
     --output_name $OUTPUT_NAME \
-    -work-dir s3://fh-pi-fredricks-d/lab/Sam_Minot/data/nextflow/work/ \
+    -work-dir [insert your work dir] \
     --list-collections \
     -process.queue mixed \
     -resume
